@@ -1,0 +1,46 @@
+﻿@using MVC.Domain.Models;
+@model Product ;
+@{
+    ViewData["Module"] = "Products";
+    ViewData["Title"] = "Delete Product ";
+}
+<div class="card">
+    <div class="card-header py-2 header-store">
+        <div class="row my-form  align-items-center">
+            <div class="col-xl-6">
+                <h1 class="title-page f15 font-weight-bold d-inline-lg-block  mb-1 mb-xl-0">
+                    Delete Product
+                </h1>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+            <form id="frmCreate" asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                            <h5 class="card-title">@Model.Name</h5>
+                            <p class="card-text"> Price    :  @Model.Price</p>
+                            @if (Model.ExpirationDate < DateTime.Now)
+                            {
+                                <p class="card-title">@Model.Name is expired</p>
+                            }
+                            else
+                            {
+                                <p class="card-title">@Model.Name is not expired</p>
+                            }
+                            <p class="card-text"> @Model.Description</p>
+                <div class="form-group text-center">
+
+                    <input id="btnSubmit" type="submit" value="Confirm" class="btn btn-danger " />
+                   <a asp-action="Details" asp-route-id="@Model.Id" class="btn btn-warning ">Cancel</a>
+                </div>
+           </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

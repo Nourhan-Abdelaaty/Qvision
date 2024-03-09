@@ -1,0 +1,36 @@
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.deps.json
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.dll
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.pdb
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.csproj.AssemblyReference.cache
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.AssemblyInfoInputs.cache
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.AssemblyInfo.cs
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.csproj.CoreCompileInputs.cache
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.dll
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\refint\MVC.Domain.dll
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.pdb
+D:\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\ref\MVC.Domain.dll
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.deps.json
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.dll
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.pdb
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.csproj.AssemblyReference.cache
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.AssemblyInfoInputs.cache
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.AssemblyInfo.cs
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.csproj.CoreCompileInputs.cache
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.dll
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\refint\MVC.Domain.dll
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.pdb
+D:\Task\Qvision\MVCProject\MVCProject\MVC.Domain\obj\Debug\net6.0\ref\MVC.Domain.dll
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.deps.json
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.dll
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\bin\Debug\net6.0\MVC.Domain.pdb
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.csproj.AssemblyReference.cache
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.AssemblyInfoInputs.cache
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.AssemblyInfo.cs
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.dll
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\refint\MVC.Domain.dll
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\MVC.Domain.pdb
+C:\Users\el msria\Desktop\New folder\MVCProject\MVC.Domain\obj\Debug\net6.0\ref\MVC.Domain.dll

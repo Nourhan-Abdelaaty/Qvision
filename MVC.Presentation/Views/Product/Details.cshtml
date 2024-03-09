@@ -1,0 +1,52 @@
+﻿@using MVC.Domain.Models;
+@model Product ;
+@{
+    ViewData["Module"] = "Products";
+    ViewData["Title"] = " Product Details ";
+}
+<div class="card">
+    <div class="card-header py-2 header-store">
+        <div class="row my-form  align-items-center">
+            <div class="col-xl-6">
+                <h1 class="title-page f15 font-weight-bold d-inline-lg-block  mb-1 mb-xl-0">
+                    Product Details
+                </h1>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <form id="frmCreate">
+            <input type="hidden" asp-for="Id" />
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text"> Price    :  @Model.Price</p>
+            <p class="card-text"> Quantity :  @Model.StockQuantity</p>
+            <p class="card-text"> Expiration Date :  @Model.ExpirationDate</p>
+            @if (Model.ExpirationDate < DateTime.Now)
+            {
+                <p class="card-title">@Model.Name is expired</p>
+            }
+            else
+            {
+                <p class="card-title">@Model.Name is not expired</p>
+            }
+            <p class="card-text"> @Model.Description</p>
+
+            <div class="form-group text-center">
+                <a asp-action="edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+                <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+
+<div>
+    <a class="btn btn-primary p-2" asp-action="Index">Back to List</a>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
